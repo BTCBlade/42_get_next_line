@@ -1,6 +1,7 @@
 # 42_get_next_line
 42 School USA coding May 2017 Cadet
 
+No makefile, no main
 
 A library function in C to read a line from any file descriptor
 
